@@ -7,8 +7,8 @@ HW for next class:
 4. Take this three minute [Typing Test](https://www.typing.com/student/test/3).  Nice and relaxed no crazy fast typing.
 5. Take this [Personality Test](https://www.16personalities.com)
 6. DM Zoe with the following:
-	* Github username
-	* Result of your 3 minute typing test (what is your wpm)
-  * Result of personality test (what is your personality?  example: “The Entertainer” (ESFP-A))
+    * Github username
+    * Result of your 3 minute typing test (what is your wpm)
+    * Result of personality test (what is your personality?  example: “The Entertainer” (ESFP-A))
 
 7. PREWORK FINAL CHANCE - if you have any remaining treehouse prework it needs to be done by SATURDAY
