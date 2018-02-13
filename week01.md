@@ -3,7 +3,7 @@
 HW for next class:
 1. Create a [Github](www.github.com) account
 2. Add your photo to slack and github
-3. Complete this form about Studygroups: [Studygroup Preference](https://goo.gl/forms/szHDu08xneZS4rFS2)
+3. Complete this form about Studygroups: [Studygroup Preference](https://goo.gl/forms/UZB9iGzhmH2OdZvF3)
 4. Take this three minute [Typing Test](https://www.typing.com/student/test/3).  Nice and relaxed no crazy fast typing.
 5. Take this [Personality Test](https://www.16personalities.com)
 6. DM Zoe with the following:
