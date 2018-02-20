@@ -1,7 +1,7 @@
 # Week 2 Homework:
 
 ## Studygroup Assignment(s)
-1. As a team pick a [CSS Zen Garden Ex](http://www.mezzoblue.com/zengarden/alldesigns/) 
+1. As a team pick a [CSS Zen Garden Design](http://www.mezzoblue.com/zengarden/alldesigns/) 
   * Each member of the team should be working on the same design
   * As a group have a discussion about the following:
     * How are you going to break up the HTML - what does your grid look like, what types of elements are you going to use
