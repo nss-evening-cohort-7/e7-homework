@@ -1,4 +1,4 @@
-# Week 2 Homework:
+# Week 2 Homework: HTML/CSS/Git
 
 ## Studygroup Assignment(s)
 1. As a team pick a [CSS Zen Garden Design](http://www.mezzoblue.com/zengarden/alldesigns/) 
