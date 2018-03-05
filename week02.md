@@ -22,6 +22,6 @@
 
  2. [Blog post #1](https://github.com/nss-nightclass-projects/homework/blob/master/blog.md):  This should be a NICE LONG blog post covering everything you learned/found interesting about HTML, CSS, GIT,  and github.  For this blog post please put it in the index.html of your personal site.  At this point you do not need to spend time formatting it - you will do that next week.
 
- 3.  [Personal site #1: HTML](https://github.com/nss-nightclass-projects/personal-site-instructions/blob/master/personal-bio-site-1.md)
+ 3.  [Personal site #1: HTML](https://github.com/nss-nightclass-projects/personal-site-instructions/blob/master/personal-bio-site-01.md)
  
- 4.  [Personal site #2: CSS](https://github.com/nss-nightclass-projects/personal-site-instructions/blob/master/personal-bio-site-2.md) - we will cover this material in class on saturday.
+ 4.  [Personal site #2: CSS](https://github.com/nss-nightclass-projects/personal-site-instructions/blob/master/personal-bio-site-02.md) - we will cover this material in class on saturday.
