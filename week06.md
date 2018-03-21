@@ -6,4 +6,6 @@
 ## Individual Assignment(s)
 1. [Blog post #4](https://github.com/nss-nightclass-projects/homework/blob/master/blog.md):  Add this in blogs.js file to the blogs array you created as part of personal site #3.  Topics include: ES6, DOM Interaction, and markdown.
 
+1.  UPDATE CLASSTRACKER - log into classtracker and click on submit.  Make sure that all your assignments are in the correct place - if they are done put them in the done column.  If they are in progress make sure they have a github url.  There is no reason any of the assignments should be in the backlog column on saturday.
+
 1.  Github cleanup - to be assigned saturday
