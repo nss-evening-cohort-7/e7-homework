@@ -1,7 +1,7 @@
 # Week 6 Homework:
 
 ## Studygroup Assignment(s)
-1. [Travel Diary](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/travel-diary.md).  As a team you should plan out the application.  Each person should have their own repo with a github project that has project cards.  No need to make wireframes - use the ones callan added to the assignment.  Once your team knows what they need start coding individually and help each other out when you get stuck.  You will have some time to work on saturday but I want to see some code completed before class.  
+1. [Travel Diary](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/travel-diary.md).  As a team you should plan out the application.  Each person should have their own repo with a github project that has project cards.  No need to make wireframes - use the ones callan added to the assignment.  Once your team knows what they need start coding individually and help each other out when you get stuck.  You will have some time to work on saturday but I want to see some code completed before class.  If you finish all assignment try some of the bonus goals.
   
 ## Individual Assignment(s)
 1. [Blog post #4](https://github.com/nss-nightclass-projects/homework/blob/master/blog.md):  Add this in blogs.js file to the blogs array you created as part of personal site #3.  Topics include: ES6, DOM Interaction, and markdown.
