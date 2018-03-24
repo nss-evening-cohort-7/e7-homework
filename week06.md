@@ -8,4 +8,6 @@
 
 1.  UPDATE CLASSTRACKER - log into classtracker and click on submit.  Make sure that all your assignments are in the correct place - if they are done put them in the done column.  If they are in progress make sure they have a github url.  There is no reason any of the assignments should be in the backlog column on saturday.
 
-1.  Github cleanup - to be assigned saturday
+1.  Github cleanup - delete dummy repos (all your test repos)
+
+1.  README.md - go through every repo you don't delete and create appropriate readme files for them.  (fork your group project and create the readme)
