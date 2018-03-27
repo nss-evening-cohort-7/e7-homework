@@ -1,7 +1,7 @@
 # Week 7 Homework:
 
 ## Studygroup Assignment(s)
-1. [Solar System]().  
+1. [Solar System](): XHR and ALL THE EVENT LISTENERS.
 
 
 ## Individual Assignment(s)
