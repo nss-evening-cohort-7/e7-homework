@@ -1,7 +1,7 @@
 # Week 7 Homework:
 
 ## Studygroup Assignment(s)
-1. [Solar System](): XHR and ALL THE EVENT LISTENERS.
+1. [Solar System](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/solar_system.md): XHR and ALL THE EVENT LISTENERS.
 
 
 ## Individual Assignment(s)
