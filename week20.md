@@ -1,7 +1,7 @@
 # Week 20 Homework:
 
 ## Studygroup Assignment(s)
-1. [React Assignment](nope.md).
+1. [React Mashups](https://github.com/nss-nightclass-projects/react-mashups).  Plan and code.  For studygroup focus on project setup and GET request.  We will talk about POST on saturday
 
 
 ## Personal Assignment(s)
